@@ -1,0 +1,8 @@
+# jemdoc: menu{MENU}{projects.html}, nofooter  
+==Projects
+
+- OptaPlanner core reconstruction. \[[https://github.com/xinwuyun/optaplanner-alter details]\]
+- HUAWEI cloud function graph componenet for serverless devs. \[[https://github.com/xinwuyun/fg details]\]
+- BAIDU cloud  cfc componenet for serverless devs. \[[https://github.com/xinwuyun/cfc details]\]
+- Big data real-time synchronization system for coal transportation.
+\n

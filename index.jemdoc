@@ -1,0 +1,38 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Zerui Wang
+
+~~~
+Undergraduate\n [https://see.xidian.edu.cn/  School of Electronic Engineering] \n[https://www.xidian.edu.cn/ Xidian University (XDU)]\n
+Github: [https://github.com/xinwuyun xinwuyun]\n
+Email: zrwangxdu@outlook.com
+~~~
+
+== About me
+I am an undergraduate student in Xidian University, majored in software engineering. And I have a strong interest in cloud computin, especially serverless. My long-term goal is to make serverless more powerful. 
+- \[[assets\resume.pdf My-brief-cv]\]
+
+== Education
+- Xidian University, Bachelor in Software Engineering, Sep. 2019 - Now
+
+== Research
+My research interests include 
+- Cloud computing
+- Edge computing
+- Serverless
+
+== Awards
+- Apr. 2021, MCM/ICM, Mathematical Contest in Modeling (Worldwide level), M Award.
+- Sep. 2021, The National College Student Mathematical Modeling Competition, Shaanxi Province Second Prize.
+- 2021, Summer 2021 of Open Source Promotion Plan, project finished.
+- 2021, The 7th China International College Students 'Internet+' Innovation and Entrepreneurship Competition, National Bronze Award
+
+[awards.html Find out more about my awards].
+
+== Projects
+- OptaPlanner core reconstruction. \[[https://github.com/xinwuyun/optaplanner-alter details]\]
+- HUAWEI cloud function graph componenet for serverless devs. \[[https://github.com/xinwuyun/fg details]\]
+- BAIDU cloud  cfc componenet for serverless devs. \[[https://github.com/xinwuyun/cfc details]\]
+- Big data real-time synchronization system for coal transportation.
+
+[projects.html Find out more about my projects].
+\n
